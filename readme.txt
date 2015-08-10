@@ -1,0 +1,1 @@
+set search_path to dashboard_user ;
